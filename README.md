@@ -1,6 +1,7 @@
 # Patent Application Claims Text Semantic Similarity Search
 ### Capstone Project for University of Chicago Analytics (MSCA) Program 
-In collaboration with Ahjeong Yeom, Akhir Syabani, Han-yi Lin, and Raytheon Technologies
+Team: Ahjeong Yeom, Akhir Syabani, Han-yi Lin, Kenji Laurens 
+Capstone Partner: Raytheon Technologies
 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"><img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
 
